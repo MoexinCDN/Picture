@@ -1,25 +1,25 @@
 感谢使用faviconit！
 将文件拷贝到你的网站目录下并且将以下代码加入你的HTML<HEAD>标签：
 
-	<!-- ****** faviconit.com favicon图标 ****** -->
-	<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon.ico">
-	<link rel="icon" sizes="16x16 32x32 64x64" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon.ico">
-	<link rel="icon" type="image/png" sizes="196x196" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-192.png">
-	<link rel="icon" type="image/png" sizes="160x160" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-160.png">
-	<link rel="icon" type="image/png" sizes="96x96" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-96.png">
-	<link rel="icon" type="image/png" sizes="64x64" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-64.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-32.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-16.png">
-	<link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-57.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-114.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-72.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-144.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-60.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-120.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-76.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-152.png">
-	<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-180.png">
-	<meta name="msapplication-TileColor" content="#FFFFFF">
-	<meta name="msapplication-TileImage" content="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-144.png">
-	<meta name="msapplication-config" content="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@masterhttps://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon/Moexin/browserconfig.xml">
-	<!-- ****** faviconit.com favicon图标 ****** -->
+<!-- ****** faviconit.com favicon图标 ****** -->
+<link rel="shortcut icon" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon.ico">
+<link rel="icon" sizes="16x16 32x32 64x64" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon.ico">
+<link rel="icon" type="image/png" sizes="196x196" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-192.png">
+<link rel="icon" type="image/png" sizes="160x160" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-160.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-96.png">
+<link rel="icon" type="image/png" sizes="64x64" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-64.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-16.png">
+<link rel="apple-touch-icon" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-57.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-72.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-144.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-120.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-76.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-180.png">
+<meta name="msapplication-TileColor" content="#FFFFFF">
+<meta name="msapplication-TileImage" content="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/favicon-144.png">
+<meta name="msapplication-config" content="https://cdn.jsdelivr.net/gh/MoexinCDN/Picture@master/Favicon/Moexin/browserconfig.xml">
+<!-- ****** faviconit.com favicon图标 ****** -->
